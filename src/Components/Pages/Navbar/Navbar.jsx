@@ -19,7 +19,7 @@ import {
   useToast,
 } from "@chakra-ui/react";
 import React from "react";
-import "../Pages/Navbar.css";
+import "./Navbar.css";
 import { Search2Icon } from "@chakra-ui/icons";
 import { VscAccount } from "react-icons/vsc";
 import { FaShippingFast, FaShoppingCart } from "react-icons/fa";
@@ -264,11 +264,11 @@ const Navbar = () => {
                       }}
                     >
                       <Link to="/holiday">
-                        <p>Show All Products by Beuty Gift</p>
+                        <p>Show All Products by Beauty Gift</p>
                       </Link>
                       <Link to="/holiday">
                         {" "}
-                        <p>Our Favorite Beuty Gift Sets</p>
+                        <p>Our Favorite Beauty Gift Sets</p>
                       </Link>
                       <Link to="/holiday">
                         {" "}
