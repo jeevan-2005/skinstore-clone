@@ -17,10 +17,9 @@ Check out the live demo of the project [here](https://skinstore-clone-zeta.verce
 
 ## Screenshots
 
-![Home Page](path-to-homepage-image)
-![Products Page](path-to-products-page-image)
-![Cart Page](path-to-cart-page-image)
-
+![home-page](https://github.com/user-attachments/assets/0f492e72-20fe-45aa-ba94-c32187904a0e)
+![products-page](https://github.com/user-attachments/assets/dfa4e1b1-6032-49f0-915f-acd0a3df74fe)
+![cart-page](https://github.com/user-attachments/assets/1fad84d2-eb76-4a7a-8aad-e9ab83517a92)
 ## Technologies Used
 
 * HTML5
