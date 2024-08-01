@@ -13,7 +13,7 @@ This project is a clone of the [SkinStore](https://www.skinstore.com/) website, 
 
 ## Live Demo
 
-Check out the live demo of the project [here](https://skinstore-clone-zeta.vercel.app/).
+Check out the live demo of the project [here](https://skinstore-clone-fawn.vercel.app/).
 
 ## Screenshots
 
